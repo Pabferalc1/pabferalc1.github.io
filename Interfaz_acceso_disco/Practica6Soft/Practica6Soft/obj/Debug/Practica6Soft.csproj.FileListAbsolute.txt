@@ -1,0 +1,7 @@
+C:\PI workspace\Practica6Soft\Practica6Soft\bin\Debug\Practica6Soft.exe.config
+C:\PI workspace\Practica6Soft\Practica6Soft\bin\Debug\Practica6Soft.exe
+C:\PI workspace\Practica6Soft\Practica6Soft\bin\Debug\Practica6Soft.pdb
+C:\PI workspace\Practica6Soft\Practica6Soft\obj\Debug\Practica6Soft.csproj.AssemblyReference.cache
+C:\PI workspace\Practica6Soft\Practica6Soft\obj\Debug\Practica6Soft.csproj.CoreCompileInputs.cache
+C:\PI workspace\Practica6Soft\Practica6Soft\obj\Debug\Practica6Soft.exe
+C:\PI workspace\Practica6Soft\Practica6Soft\obj\Debug\Practica6Soft.pdb
