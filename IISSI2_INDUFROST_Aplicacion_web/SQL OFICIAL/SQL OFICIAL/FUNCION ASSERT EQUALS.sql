@@ -1,0 +1,9 @@
+CREATE OR REPLACE FUNCTION ASSERT_EQUALS
+    (Salida BOOLEAN, SalidaEsperada BOOLEAN) RETURN VARCHAR2 AS
+    BEGIN
+    IF(Salida = SalidaEsperada) THEN
+        RETURN 'EXITO';
+    ELSE
+        RETURN 'FALLO';
+    END IF;
+END ASSERT_EQUALS;

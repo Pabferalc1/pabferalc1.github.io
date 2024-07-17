@@ -1,0 +1,235 @@
+.fondo{
+	
+	background-color:rgb(106,116,255);
+}
+
+.logocss{
+	
+	height: 100%; 
+	width: 100%;
+}
+
+.imglogincss{
+	
+	height: 80%; 
+	width: 80%; 
+	margin-top:7px;
+}
+
+.bannercss{
+	
+	height: 100%; 
+	width: 100%;
+}
+
+.botonfactura{
+	
+	margin-left:210px;
+	width: 100px;
+	
+}
+
+.botongarantia{
+	
+	margin-left:0px;
+	width: 100px;
+}
+
+.botonvaloracion{
+	
+	margin-left:0px;
+	width: 150px;
+}
+
+.blanco{
+	background-color: #FFFFFF;
+	
+}
+
+.zindex4{
+	
+	z-index: 4;
+}
+
+.container .borrarfactura1{
+	
+	width:20%;
+	border-radius: 10px;
+	
+	
+}
+	
+.container .button{
+	width: 20%;
+}
+
+.ancho100{
+	width: 100%;
+}
+
+.ancho95{
+	width: 95%;
+	margin-left: 2.5%;
+}
+.container .actualizarContra{
+	
+	width: 30%; 
+	border-radius: 10px;
+	margin-left: 2.5%
+
+}
+
+.ancho20{
+	
+	width: 20%;
+}
+
+div#hazte{
+	
+	height: 71%; 
+	width: 100%;
+}
+
+.botonhorario{
+	
+	margin-left:170px; 
+	width: 200px;
+}
+
+.botonbuzon{
+	
+	margin-left:0px;
+	width: 200px;
+}
+
+.marginleft400{
+	
+	margin-left:400px;
+}
+.cuadrarlogin{
+	
+	width:500px;
+	margin-left:230px;
+}
+
+.marginenlogin{
+	
+	margin-left: 190px;
+	
+}
+
+.margen{
+	
+	margin-left:20px;
+	width: 500px;
+	
+}
+
+.widht95{
+	width:95%;
+	margin: auto;
+	padding: 8px;
+		border: none;
+	border-radius: 7px;
+	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+	box-shadow: 0px 1px 4px rgba(0,0,0,0.3);
+}
+	
+div#widht95{
+	width:95%;
+	margin: auto;
+	padding: 8px;
+	text-align: left;
+	word-break: break-all;
+ 	word-wrap: break-word;
+ 	display: block;
+ 	border: none;
+	border-radius: 7px;
+	-webkit-box-shadow: 0 1px 4px rgba(0,0,0,0.3);
+	box-shadow: 0px 1px 4px rgba(0,0,0,0.3);
+	
+}
+.cajatexto{
+	width:98%;
+	margin: auto;
+	padding: 8px;
+	text-align: left;
+	word-break: break-all;
+ 	word-wrap: break-word;
+ 	display: block;
+ 	resize: none;
+ 	border-radius: 10px;
+}
+/* Customize the label (the container) */
+.container2 {
+  display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 22px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container2 input {
+  position: absolute;
+  opacity: 1;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  left:857px;
+  top:-40px;
+  background-color: #eee;
+  border: 3px solid #2196F3;
+}
+
+/* On mouse-over, add a grey background color */
+.container2:hover input ~ .checkmark {
+  background-color: #ccc;
+  
+}
+
+/* When the checkbox is checked, add a blue background */
+.container2 input:checked ~ .checkmark {
+  background-color: #2196F3;
+  
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.container2 input:checked ~ .checkmark:after {
+  display: block;
+  
+}
+
+/* Style the checkmark/indicator */
+.container2 .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+} 
